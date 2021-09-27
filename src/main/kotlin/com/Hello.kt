@@ -9,7 +9,7 @@ fun main(args:Array<String>) {
 
 class Human{
     fun Hello(){
-        println("HEllo KT");
+        println("HEllo KTI");
     }
 }
 

@@ -2,6 +2,6 @@ package com.tom;
 
 public class Person {
     public void hello(){
-        System.out.println("Heelo");
+        System.out.println("Heelooo");
     }
 }
